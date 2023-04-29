@@ -18,8 +18,6 @@ A Support Vector Machine (SVM) is a discriminative classifier formally defined b
 #### What is HOG?
 In the HOG feature descriptor, the distribution ( histograms ) of directions of gradients ( oriented gradients ) are used as features. Gradients ( x and y derivatives ) of an image are useful because the magnitude of gradients is large around edges and corners ( regions of abrupt intensity changes ) and we know that edges and corners pack in a lot more information about object shape than flat regions.
 
-## Project Demo
-- The demo is available on Youtube: https://www.youtube.com/watch?v=itmV7druy9Y&feature=youtu.be
     
 ## Installation
 **For Windows Users**
