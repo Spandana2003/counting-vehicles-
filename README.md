@@ -9,7 +9,7 @@ This project focuses "Vehicle Detection" by [Support Vector Machine(SVM)](http:/
 
 Moreover, this project has vehicle counting system, the accuracy is approximately 80% for now but developing of the accuracy is still in progress and this repository will be updated with higher accuracy rate soon.
 
-[Click](https://github.com/ahmetozlu/vehicle_counting) to see another vehicle counting project which is developed with "Blob Detection" method.
+[Click](https://github.com/Spandana2003/Spandana2003) to see another vehicle counting project which is developed with "Blob Detection" method.
 
 ## Theory
 #### What is SVM? 
@@ -36,7 +36,7 @@ Please follow the instructions below:
 
 2. ) Clone git repository:
     
-        git clone --recursive https://github.com/ahmetozlu/vehicle_counting_hog_svm.git
+        git clone --recursive https://github.com/Spandana2003/Spandana2003
     
 3. ) Go to vehicle_counting_hog_svm/build folder.
 
@@ -58,35 +58,5 @@ Please follow the instructions below:
 
 9. ) If everything goes well, copy vehicle_counting_hog_svm.exe to vehicle_counting_hog_svm/ and run!
 
-**For Linux Users**
 
-For Linux and Mac users, a CMakefile is provided to compile the source code.
 
-- Check out the latest project source code and compile it:
-
-      ~/git clone --recursive https://github.com/ahmetozlu/vehicle_counting_hog_svm.git
-      ~/cd vehicle_counting_hog_svm
-      ~/vehicle_counting_hog_svm/cd build
-      ~/vehicle_counting_hog_svm/build/ cmake ..
-      ~/vehicle_counting_hog_svm/build/ make
-
-- Run demo:
-
-      ~/vehicle_counting_hog_svm/run_vehicle_counting_hog_svm.sh
-
-## Citation
-If you use this code for your publications, please cite it as:
-
-    @ONLINE{vdtc,
-        author = "Ahmet Özlü",
-        title  = "Vehicle Detection, Tracking and Counting",
-        year   = "2017",
-        url    = "https://github.com/ahmetozlu/vehicle_counting_hog_svm"
-    }
-
-## Author
-Ahmet Özlü
-- Please contact for dataset or more info: ahmetozlu93@gmail.com
-
-## License
-This system is available under the MIT license. See the LICENSE file for more info.
